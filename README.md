@@ -7,8 +7,8 @@
 - 📚 Currently preparing for graduate entrance exams
 
 🛠️ My Computational Toolkit:
-• 🧮 Mathematical Analysis: Wolfram Mathematica, Maple
-• ⚡ Scientific Computing: MATLAB, Fortran, Julia
-• 🔬 Physics Simulation: VASP (Density Functional Theory)
-• 🏗️ System Modeling: Modelica
-• 🤖 Hardware Programming: Arduino
+- 🧮 Mathematical Analysis: Wolfram Mathematica, Maple
+- ⚡ Scientific Computing: MATLAB, Fortran, Julia
+- 🔬 Physics Simulation: VASP (Density Functional Theory)
+- 🏗️ System Modeling: Modelica
+- 🤖 Hardware Programming: Arduino
